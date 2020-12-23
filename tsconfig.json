@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "i18n.js", "pages/_error.js"  ],
+, "i18n.js", "pages/_error.js", "pages/404.js"  ],
   "exclude": [
     "node_modules"
   ]

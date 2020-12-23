@@ -11,23 +11,11 @@
   font-weight: normal;
   font-size: 2.7em;
   text-align: center;
+  white-space: pre-wrap;
 }
 
-.clickables {
-  display: flex;
+.link {
   margin-top: 3px;
-}
-
-.btn1 {
-  border-radius: 7px;
-  font-size: 1.4em;
-  display: flex;
-  align-items: center;
-  margin-right: 5px;
-  padding: .5rem 1rem;
-}
-
-.btn2 {
   border-radius: 7px;
   font-size: 1.4em;
   display: flex;
