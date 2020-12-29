@@ -4,7 +4,7 @@
 
 # About the project
 
-This project aims to create a small example of how the translation of an application works using **next-i18-next** 
+This project aims to create a small example of how the interlationalization works in a web application using **next-i18-next** 
 
 The application consists of two pages that will be translated as the user presses the translation button. Once the translation button is pressed, all the pages of the application will be translated.
 
