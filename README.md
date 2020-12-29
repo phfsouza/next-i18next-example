@@ -1,10 +1,10 @@
 
-# Next-i18next Example
+# Next-i18next with NextJs and TypeScript
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/phfsouza/next-i18next-example/blob/main/LICENSE) 
 
 # About the project
 
-This project aims to create a small example of how the interlationalization works in a web application using **next-i18-next** 
+This project aims to create a small example of how the interlationalization works in a web application using [next-i18next](https://github.com/isaachinman/next-i18next) with [NextJs](https://github.com/zeit/next.js) and [TypeScript](https://github.com/microsoft/TypeScript)
 
 The application consists of two pages that will be translated as the user presses the translation button. Once the translation button is pressed, all the pages of the application will be translated.
 
@@ -23,7 +23,7 @@ The application consists of two pages that will be translated as the user presse
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- NextJS
+- NextJs
 - Next-i18next
 
 ## Implemented languages
