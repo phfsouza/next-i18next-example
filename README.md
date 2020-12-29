@@ -1,5 +1,5 @@
 
-# Big Game Survey 
+# Next-i18next Example
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/phfsouza/next-i18next-example/blob/main/LICENSE) 
 
 # About the project
